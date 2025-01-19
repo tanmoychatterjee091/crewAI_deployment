@@ -33,6 +33,7 @@ embedchain = "^0.1.98"
 appdirs = "^1.4.4"
 python-decouple = "^3.6"
 crewai = "^0.28.8"
+pip-wheel = "chroma-hnswlib (==0.7.3)"
 
 [tool.poetry.extras]
 tools = ["crewai-tools"]
